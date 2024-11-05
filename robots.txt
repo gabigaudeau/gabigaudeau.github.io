@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gabigaudeau.github.io/al-folio/sitemap.xml
+Sitemap: https://gabigaudeau.github.io/sitemap.xml
