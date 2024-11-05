@@ -1,11 +1,9 @@
 {
   "basics": {
     "name": "Gabrielle Gaudeau",
-    "label": "PhD Student",
     "image": "",
     "email": "gjg34@cam.ac.uk",
     "phone": "(+44) 07887397228",
-    "url": "http://gabigaudeau.github.io",
     "summary": "",
     "location": {
       "address": "William Gates Building,",
@@ -14,13 +12,9 @@
       "postalCode": "CB3 0FD,",
       "country": "United-Kingdom"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "website": "http://gabigaudeau.github.io",
+    "linkedin": "https://www.linkedin.com/in/gabrielle-gaudeau-a98240182/",
+    "github": "https://github.com/gabigaudeau"
   },
   "work": [
     {
@@ -47,14 +41,23 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "institution": "University of Cambridge, Computer Laboratory",
+      "location": "Cambridge, UK",
+      "url": "https://www.cst.cam.ac.uk/people/gjg34",
+      "area": "Natural Language Processing, Educational Applications",
+      "studyType": "PhD in Computer Science",
+      "startDate": "2023-10-01",
+      "endDate": ""
+    },
+    {
+      "institution": "University of Cambridge, Computer Laboratory",
+      "location": "Cambridge, UK",
+      "url": "https://www.cst.cam.ac.uk/people/gjg34",
+      "area": "Natural Language Processing",
+      "studyType": "MPhil in Advanced Computer Science",
+      "startDate": "2022-10-01",
+      "endDate": "2023-07-01",
+      "score": "Distinction (78%)",
       "courses": ["Theory of Relativity"]
     }
   ],
