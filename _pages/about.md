@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='mailto:gjg34@cam.ac.uk'>gjg34@cam.ac.uk</a><hr>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## :wave: about
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hello! My name is Gabrielle and I am a 2<sup>nd</sup> Year PhD student in Natural Language Processing and Machine Learning at the [Department of Computer Science and Technology at the University of Cambridge](https://www.cst.cam.ac.uk), supervised by [Prof. Paula Buttery](https://www.cl.cam.ac.uk/~pjb48/). I am an active member of the [Institute for Automated Language Teaching and Assessment (ALTA)](https://alta.cambridgeenglish.org) supported by [Cambridge University Press & Assessment](https://www.cambridge.org). I hold a masters in Advanced Computer Science from the University of Cambridge, and previously completed my undergraduate studies in Computer Science and Mathematics from the University of Edinburgh.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research interests sit at the intersection of Artificial Intelligence and Education, where I focus on Automated Essay Scoring and Essay Feedback Generation. More generally, I love learning about how we can make AI more explainable, as well as more human-centered, responsible and ethical--topics that I am always very keen on discussing. At the moment, I am really concerned about the impact that AI is having and will have on Education in the wake of Large Language Models (LLMs), and I really hope to be able to contribute to this area positively.
+
+<hr>

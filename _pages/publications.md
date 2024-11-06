@@ -2,13 +2,12 @@
 layout: page
 permalink: /publications/
 title: publications
-description: i'm really just getting started... 
+description: i'm really just getting started...
 nav: true
 nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-
 
 <!-- <h4 id="2024">2024</h4>
 

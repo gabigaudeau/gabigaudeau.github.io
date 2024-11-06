@@ -2,7 +2,7 @@
 layout: page
 permalink: /outreach/
 title: outreach
-description: a list of my many extra-curriculars... 
+description: a list of my many extra-curriculars...
 nav: true
 nav_order: 6
 ---

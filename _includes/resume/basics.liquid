@@ -21,7 +21,7 @@
           <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
         {% elsif content[0] == 'location' %}
           {% for loc in content[1] %}
-            {%if (loc[0] == "city") %}
+            {% if (loc[0] == "city") %}
               <br>
             {% endif %}
             {{ loc[1] }}
