@@ -19,6 +19,12 @@
 
 # Installing and Deploying
 
+## Gabi notes
+
+> docker compose build
+> docker compose up
+> http://localhost:8080/cv/
+
 ## Recommended Approach
 
 The recommended approach for using **al-folio** is to first create your own site using the template with as few changes as possible, and only when it is up and running customize it however you like. This way it is easier to pinpoint what causes a potential issue in case of a bug. The minimum steps required to create your own site are ([video tutorial here](assets/video/tutorial_al_folio.mp4)):
