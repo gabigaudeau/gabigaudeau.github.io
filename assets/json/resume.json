@@ -42,8 +42,7 @@
       "description": {
         "topic": "Multi-task Learning for Analytic Automated Essay Scoring.",
         "supervisor": "Zheng Yuan, Øistein Andersen.",
-        "grade": "Distinction (~78%).",
-        "award": "Wolfson College Jennings Prize for outstanding academic accomplishments (£300)."
+        "grade": "Distinction (~78%)."
       }
     },
     {
@@ -73,7 +72,7 @@
       }
     }
   ],
-  "work": [
+  "work experience": [
     {
       "name": "TechWolf ",
       "location": "Ghent, Belgium",
@@ -142,7 +141,7 @@
       }
     }
   ],
-  "volunteer": [
+  "volunteering": [
     {
       "organization": "University of Edinburgh",
       "location": "Edinburgh, UK",
@@ -150,10 +149,94 @@
       "url": "https://informatics.ed.ac.uk",
       "startDate": "2018-09",
       "endDate": "2022-07",
-      "summary": "Something...",
+      "summary": "Elected by my cohort in my first-year, I voluntered every subsequent year.",
       "description": {
-        "options": "with Further Mathematics, Ancient Greek and L3 Japanese.",
-        "grade": "Distinction (19.92/20); top student of my specialisation."
+        "role": "gathered feebdack from my cohort and reported to department staff in weekly meetings, acted as a liaison between both parties.",
+        "initiatives": "organised and led revision sessions to help failing students."
+      }    
+    },
+    {
+      "organization": "University of Edinburgh",
+      "location": "Edinburgh, UK",
+      "position": "InfPALS Leader",
+      "url": "https://infpals.github.io",
+      "startDate": "2019-09",
+      "endDate": "2020-08",
+      "summary": "School of Informatics Peer Learning Support Scheme Volunteer.",
+      "description": {
+        "role": "after rigorous training, I planned and facilitated weekly revision sessions and workshops for first-year students throughout the year."
+      }    
+    },
+    {
+      "organization": "Edinburgh University Salsa Society",
+      "location": "Edinburgh, UK",
+      "position": "Administrative Secretary",
+      "url": "https://www.eusa.ed.ac.uk/activities/view/salsasoc",
+      "startDate": "2020-05",
+      "endDate": "2021-01",
+      "summary": "Part of the executive committee of the society, second to the President.",
+      "description": {
+        "role": "charged with time-tabling, and booking rooms for the many professional dance classes offered by the society, keeping meeting agendas and minutes, and helping the President in all matters."
+      }    
+    },
+    {
+      "organization": "Edinburgh University Salsa Society",
+      "location": "Edinburgh, UK",
+      "position": "Performance Team Coordinator",
+      "url": "https://www.eusa.ed.ac.uk/activities/view/salsasoc",
+      "startDate": "2021-09",
+      "endDate": "2022-05",
+      "summary": "Acted as coordinator between the executive committee of the society, the performance team's professional choreographers and its members.",
+      "description": {
+        "role": "charged with time-tabling, and booking rooms for the performance team practices, and was an active member of the team."
+      }    
+    },
+    {
+      "organization": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "position": "Research Group PhD Representative ",
+      "url": "https://www.cst.cam.ac.uk/people/gjg34",
+      "startDate": "2023-09",
+      "endDate": "2024-08",
+      "summary": "Part of the Postgraduate Students' Forum, with a representative from each of the research groups of the department.",
+      "description": {
+        "role": "gathered feedback from my group's postagraduate students to help improve the wellbeing of students in termly meetings."
+      }    
+    },
+    {
+      "organization": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "position": "Women in Computer Science Programme Mentor",
+      "url": "https://www.cst.cam.ac.uk/people/gjg34",
+      "startDate": "2024-02",
+      "endDate": "2024-07",
+      "summary": "This programme aims to encourage women and non-binary students in Year 12 (aged 16-17) to consider studying Computer Science at university.",
+      "description": {
+        "role": "met monthly with two students and provided guidance and feedback as they worked on small individual research projects."
+      }    
+    },
+    {
+      "organization": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "position": "Building and Environment PhD Representative",
+      "url": "https://www.cst.cam.ac.uk/people/gjg34",
+      "startDate": "2023-09",
+      "endDate": "",
+      "summary": "Part of the department's Building and Environment Committee.",
+      "description": {
+        "role": "gathered feedback from postgraduate students to raise any issues with the learning environment in bimonthly meetings."
+      }    
+    },
+    {
+      "organization": "IVACS 2024",
+      "location": "Cambridge, UK",
+      "position": "Volunteer",
+      "url": "https://www.ivacs2024.com",
+      "startDate": "2023-12",
+      "endDate": "2024-07",
+      "summary": "The Inter-Varietal Applied Corpus Studies (IVACS) Conference.",
+      "description": {
+        "role": "Helped advertise the conference through different social channels. Then on 16/17th of July: attended the conference, chairing individual sessions and helping with the organisation on the day."
       }    
     }
   ],
@@ -164,6 +247,13 @@
       "awarder": "ASA DataFest 2021 @ EDI Challenge",
       "url": "https://datafest-edi.github.io/web/df2021/",
       "summary": "ASA DataFest is a data analysis competition where teams of up to five students attack a large and complex surprise dataset over a weekend to find and communicate insights into the data. For this competition the Rocky Mountain Poison and Drug Safety Center was interested in discovering and identifying patterns of drug use, with particular attention paid to identifying misuse."
+    },
+    {
+      "title": "Wolfson College Jennings Prize ",
+      "date": "2023-07-11",
+      "awarder": "University of Cambridge, Wolfson College",
+      "url": "https://www.wolfson.cam.ac.uk/academic-prizes",
+      "summary": "Awarded for outstanding academic accomplishments (£300)."
     }
   ],
   "certificates": [
