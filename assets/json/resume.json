@@ -96,7 +96,7 @@
       "bib": "/assets/bibliography/gaudeau_elliptic_2022.bib"
     }
   ],
-  "work experience": [
+  "industry experience": [
     {
       "name": "TechWolf ",
       "location": "Ghent, Belgium",
@@ -163,6 +163,18 @@
       "description": {
         "community management": "managed the company's social media channels via Buffer, created a series of animated advertising videos using Vyond, wrote blog articles and managed SEOs for Wordpress, collaborated with the development team to test and debug website."
       }
+    }
+  ],
+  "teaching": [
+    {
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
     }
   ],
   "awards": [
@@ -312,20 +324,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "projects": [
