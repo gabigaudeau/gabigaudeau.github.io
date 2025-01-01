@@ -72,6 +72,30 @@
       }
     }
   ],
+  "publications": [
+    {
+      "name": "Assessing how accurately Large Language Models encode and apply the Common European Framework of Reference for Languages",
+      "publisher": "Computers and Education: Artificial Intelligence",
+      "releaseDate": "forthcoming (accepted)",
+      "authors": "Luca Benedetto, Gabrielle Gaudeau, Andrew Caines, Paula Buttery"
+    },
+    {
+      "name": "Multi-Task Learning for Multi-Dimensional Essay Scoring (Master's thesis)",
+      "publisher": "Computer Laboratory, University of Cambridge",
+      "releaseDate": "2023",
+      "authors": "Gabrielle Gaudeau", 
+      "pdf": "/assets/pdf/mphil_thesis.pdf",
+      "bib": "/assets/bibliography/gaudeau_multi_2023.bib"
+    },
+    {
+      "name": "Elliptic Curve Cryptography (Bachelor's thesis)",
+      "publisher": "School of Mathematics, University of Edinburgh",
+      "releaseDate": "2022",
+      "authors": "Gabrielle Gaudeau", 
+      "pdf": "/assets/pdf/bsc_hons_thesis.pdf",
+      "bib": "/assets/bibliography/gaudeau_elliptic_2022.bib"
+    }
+  ],
   "work experience": [
     {
       "name": "TechWolf ",
@@ -139,6 +163,29 @@
       "description": {
         "community management": "managed the company's social media channels via Buffer, created a series of animated advertising videos using Vyond, wrote blog articles and managed SEOs for Wordpress, collaborated with the development team to test and debug website."
       }
+    }
+  ],
+  "awards": [
+    {
+      "title": "Wolfson College Jennings Prize ",
+      "date": "2023-07-11",
+      "awarder": "University of Cambridge",
+      "url": "https://www.wolfson.cam.ac.uk/academic-prizes",
+      "summary": "Awarded for outstanding academic accomplishments, namely a First Class or a Distinction in a University Examination (£300)."
+    },
+    {
+      "title": "ASA DataFest 2021 Best Insight (Honorable Mention)",
+      "date": "2021-03-28",
+      "awarder": "University of Edinburgh",
+      "url": "https://datafest-edi.github.io/web/df2021/",
+      "summary": "Participated in the ASA DataFest, a data analysis competition, in a team of four. For this competition the Rocky Mountain Poison and Drug Safety Center was interested in discovering and identifying patterns of drug use, with particular attention paid to identifying misuse. The judges were impressed with our presentation and our choice to focus on maximum possible prison sentence, as well as how we compared the data provided with other data sources to get a sense of representativeness."
+    },
+    {
+      "title": "Hack The Burgh 7 \"Procedurally-generated game\" challenge winner",
+      "date": "2020-03-01",
+      "awarder": "University of Edinburgh",
+      "url": "https://2020.hacktheburgh.com",
+      "summary": "Participated in the hackathon organised by the School of Informatics, and won the \"Procedurally-generated game\" sponsored by Craneware (see https://github.com/jolpica/2020-hack-the-burgh/blob/master). Our game generated an ice-slide on the sea from the frequency wave of user-inputted music files. Users could press on the space bar to change a penguin's gliding direction (left to right or vice versa) to avoid falling into the water. As the music progressed, the slide grew thinner, making the game more difficult, and showcasing the effects global warming on the melting ice-cap. Rubbish and sea-fauna were also depicted to show the animal suffering from climate change and water pollution."
     }
   ],
   "volunteering": [
@@ -240,89 +287,6 @@
       }    
     }
   ],
-  "awards": [
-    {
-      "title": "Best Insight (Honorable Mention)",
-      "date": "2021-03-28",
-      "awarder": "ASA DataFest 2021 @ EDI Challenge",
-      "url": "https://datafest-edi.github.io/web/df2021/",
-      "summary": "ASA DataFest is a data analysis competition where teams of up to five students attack a large and complex surprise dataset over a weekend to find and communicate insights into the data. For this competition the Rocky Mountain Poison and Drug Safety Center was interested in discovering and identifying patterns of drug use, with particular attention paid to identifying misuse."
-    },
-    {
-      "title": "Wolfson College Jennings Prize ",
-      "date": "2023-07-11",
-      "awarder": "University of Cambridge, Wolfson College",
-      "url": "https://www.wolfson.cam.ac.uk/academic-prizes",
-      "summary": "Awarded for outstanding academic accomplishments (£300)."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
   "skills": [
     {
       "name": "Physics",
@@ -340,7 +304,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -362,18 +326,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
