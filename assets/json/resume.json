@@ -98,7 +98,7 @@
     {
       "name": "Assessing how accurately Large Language Models encode and apply the Common European Framework of Reference for Languages",
       "publisher": "Computers and Education: Artificial Intelligence",
-      "releaseDate": "forthcoming (accepted)",
+      "releaseDate": "2024",
       "authors": "Luca Benedetto, Gabrielle Gaudeau, Andrew Caines, Paula Buttery",
       "pdf": "https://www.sciencedirect.com/science/article/pii/S2666920X24001565",
       "bib": "/assets/bibliography/benedetto_assessing_2024.bib"
@@ -193,11 +193,11 @@
     {
       "name": "University of Edinburgh ",
       "location": "Edinburgh, UK",
-      "position": "Demonstrator",
+      "position": "INF1A Demonstrator",
       "url": "https://informatics.ed.ac.uk",
       "startDate": "2019-09",
       "endDate": "2019-12",
-      "summary": "For the course \"INF1A - Introduction to Computation\", which involved Functional Programming in Haskell and Computational Logic."
+      "summary": "For the first-year undergraduate course \"INF1A - Introduction to Computation\", which involved Functional Programming in Haskell and Computational Logic."
     },
     {
       "name": "University of Edinburgh",
@@ -245,6 +245,42 @@
       "summary": "STEM SMART is a widening participation initiative from the University of Cambridge in association with Isaac Physics, to provide free, complementary teaching and support students who attend a UK maintained school.",
       "description": {
         "role": "delivered weekly supervisions to 17 students, following the Computer Science A-level curriculum."
+      }
+    },
+    {
+      "name": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "position": "Part 1A Teaching Assistant",
+      "url": "https://www.cl.cam.ac.uk/teaching/2324/SciComp/",
+      "startDate": "2024-01",
+      "endDate": "2024-02",
+      "summary": "For the first-year undergraduate course \"1A - Scientific Computing\", which introduces scientific and econometric data modelling in Python.",
+      "description": {
+        "role": "worked the course's helpdesk, marked the course assignments, and ran a series of in-person vivas (interviews) of students."
+      }
+    },
+    {
+      "name": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "position": "Part 1A Supervisor",
+      "url": "https://www.cl.cam.ac.uk/teaching/2425/Databases/",
+      "startDate": "2024-10",
+      "endDate": "2025-01",
+      "summary": "For the first-year undergraduate course \"1A - Databases\", which introduces the basics concepts of database systems from the perspective of application designers. ",
+      "description": {
+        "role": "supervised three groups of students three times during the term (for a total of 9 contact hours), marking and giving feedback on their work prior to each supervision."
+      }
+    },
+    {
+      "name": "Gonville & Caius College, University of Cambridge",
+      "location": "Cambridge, UK",
+      "position": "Cambridge Higher Aspirations Scheme 2025 Supervisor",
+      "url": "https://www.cai.cam.ac.uk/access-outreach/schemes-and-events/cambridge-higher-aspirations-scheme",
+      "startDate": "2025-01",
+      "endDate": "",
+      "summary": "",
+      "description": {
+        "role": "will deliver the same course as in 2024."
       }
     }
   ],
@@ -382,16 +418,68 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Computer Science",
+      "icon": "fa-solid fa-computer",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Human-Computer Interaction",
+        "Advanced Databases"
+      ]
+    },
+    {
+      "name": "Programming",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python (expert)",
+        "Java (proficient)",
+        "C# (proficient)",
+        "SQL (intermediate)",
+        "Haskell (basic)"
+      ]
+    },
+    {
+      "name": "Language processing",
+      "icon": "fa-solid fa-quote-right",
+      "keywords": [
+       "Large language models",
+       "Transformers",
+       "Syntactic parsing",
+       "SpaCy", 
+       "WordNet"
+      ]
+    },
+    {
+      "name": "ML tools",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "Pandas",
+        "NumPy",
+        "Scikit-learn", 
+        "PyTorch",
+        "Comet.ml"
+      ]
+    },
+    {
+      "name": "Web development",
+      "icon": "fa-solid fa-display",
+      "keywords": [
+        "HTML", 
+        "CSS", 
+        "Flutter",
+        "JavaScript (React)",
+        "Django"
+      ]
+    },
+    {
+      "name": "Other technical skills",
+      "icon": "fa-solid fa-keyboard",
+      "keywords": [
+        "Git", 
+        "Docker", 
+        "Azure Cloud",
+        "Agile methodologies",
+        "Figma"
       ]
     }
   ]

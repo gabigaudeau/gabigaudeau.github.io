@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: i'm really just getting started...
+description: my contributions, big and small
 nav: true
 nav_order: 2
 ---
@@ -16,11 +16,15 @@ nav_order: 2
 <h4 id="2022">2022</h4> -->
 <hr>
 
-<h4 id="theses">Theses</h4>
+<h4 id="2024">2024</h4>
 <ul>
   <li>
     <p><strong>Assessing how accurately Large Language Models encode and apply the Common European Framework of Reference for Languages</strong>, Luca Benedetto, Gabrielle Gaudeau, Andrew Caines, Paula Buttery, 2024, <em>Computers and Education: Artificial Intelligence</em>, <a href="https://www.sciencedirect.com/science/article/pii/S2666920X24001565">pdf</a>, <a href="/assets/bibliography/benedetto_assessing_2024.bib">bib</a></p>
   </li>
+</ul>
+
+<h4 id="theses">Theses</h4>
+<ul>
   <li>
     <p><strong>Multi-Task Learning for Multi-Dimensional Essay Scoring</strong> (Master's thesis), Gabrielle Gaudeau, 2023, <em>Computer Laboratory, University of Cambridge</em>, <a href="/assets/pdf/mphil_thesis.pdf">pdf</a>, <a href="/assets/bibliography/gaudeau_multi_2023.bib">bib</a></p>
   </li>
