@@ -99,7 +99,9 @@
       "name": "Assessing how accurately Large Language Models encode and apply the Common European Framework of Reference for Languages",
       "publisher": "Computers and Education: Artificial Intelligence",
       "releaseDate": "forthcoming (accepted)",
-      "authors": "Luca Benedetto, Gabrielle Gaudeau, Andrew Caines, Paula Buttery"
+      "authors": "Luca Benedetto, Gabrielle Gaudeau, Andrew Caines, Paula Buttery",
+      "pdf": "https://www.sciencedirect.com/science/article/pii/S2666920X24001565",
+      "bib": "/assets/bibliography/benedetto_assessing_2024.bib"
     },
     {
       "name": "Multi-Task Learning for Multi-Dimensional Essay Scoring (Master's thesis)",
@@ -118,7 +120,7 @@
       "bib": "/assets/bibliography/gaudeau_elliptic_2022.bib"
     }
   ],
-  "industry experience": [
+  "Industry Experience": [
     {
       "name": "TechWolf ",
       "location": "Ghent, Belgium",
@@ -187,39 +189,63 @@
       }
     }
   ],
-  "teaching": [
+  "Teaching & Outreach": [
     {
-      "language": "French",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "University of Edinburgh ",
+      "location": "Edinburgh, UK",
+      "position": "Demonstrator",
+      "url": "https://informatics.ed.ac.uk",
+      "startDate": "2019-09",
+      "endDate": "2019-12",
+      "summary": "For the course \"INF1A - Introduction to Computation\", which involved Functional Programming in Haskell and Computational Logic."
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "awards": [
-    {
-      "title": "Wolfson College Jennings Prize ",
-      "date": "2023-07-11",
-      "awarder": "University of Cambridge",
-      "url": "https://www.wolfson.cam.ac.uk/academic-prizes",
-      "summary": "Awarded for outstanding academic accomplishments, namely a First Class or a Distinction in a University Examination (£300)."
+      "name": "University of Edinburgh",
+      "location": "Edinburgh, UK",
+      "position": "InfPALS School Senior Student Leader",
+      "url": "http://infpals.github.io",
+      "startDate": "2020-06",
+      "endDate": "2021-05",
+      "summary": "After volunteering in 2019, I was selected to co-lead the School of Informatics Peer Support & Learning Scheme (InfPALS), a peer-to-peer support scheme which facilitates weekly study sessions for 1st-year Computer Science students.",
+      "description": {
+        "role": "my co-leader and I were given full reign to expand the scheme and adapt it to the social-distancing measures imposed by the COVID-19 pandemic. We trained and managed a dozen student volunteers, and marketted the scheme to students and university staff."
+      }
     },
     {
-      "title": "ASA DataFest 2021 Best Insight (Honorable Mention)",
-      "date": "2021-03-28",
-      "awarder": "University of Edinburgh",
-      "url": "https://datafest-edi.github.io/web/df2021/",
-      "summary": "Participated in the ASA DataFest, a data analysis competition, in a team of four. For this competition the Rocky Mountain Poison and Drug Safety Center was interested in discovering and identifying patterns of drug use, with particular attention paid to identifying misuse. The judges were impressed with our presentation and our choice to focus on maximum possible prison sentence, as well as how we compared the data provided with other data sources to get a sense of representativeness."
+      "name": "Gonville & Caius College, University of Cambridge",
+      "location": "Cambridge, UK",
+      "position": "Cambridge Higher Aspirations Scheme 2024 Supervisor",
+      "url": "https://www.cai.cam.ac.uk/access-outreach/schemes-and-events/cambridge-higher-aspirations-scheme",
+      "startDate": "2024-01",
+      "endDate": "2024-07",
+      "summary": "CHAS provides high-achieving sixth-form students in Cambridge link counties and boroughs the opportunity to expand their knowledge and academic skills.",
+      "description": {
+        "role": "created and delivered a whole 2-month \"Introduction to AI\" course to 15 students, which included three practical coding assignments in Jupyter notebooks, and an independent research project."
+      }
     },
     {
-      "title": "Hack The Burgh 7 \"Procedurally-generated game\" challenge winner",
-      "date": "2020-03-01",
-      "awarder": "University of Edinburgh",
-      "url": "https://2020.hacktheburgh.com",
-      "summary": "Participated in the hackathon organised by the School of Informatics, and won the \"Procedurally-generated game\" sponsored by Craneware. Our game generated an ice-slide on the sea from the frequency wave of user-inputted music files. Users could press on the space bar to change a penguin's gliding direction (left to right or vice versa) to avoid falling into the water. As the music progressed, the slide grew thinner, making the game more difficult, and showcasing the effects global warming on the melting ice-cap. Rubbish and sea-fauna were also depicted to show the animal suffering from climate change and water pollution."
+      "name": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "position": "HE+ Lecturer",
+      "url": "https://myheplus.com/subject/computer-science",
+      "date": "2024-04-26",
+      "startDate": "2024-04-26",
+      "summary": "HE+ is a collaborative programme which aims to support high-ability high-school students from under-represented backgrounds.",
+      "description": {
+        "role": "created and delivered a one-hour lecture introducing AI."
+      }
+    },
+    {
+      "name": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "position": "STEM SMART 2024 Supervisor",
+      "url": "https://www.undergraduate.study.cam.ac.uk/stem-smart",
+      "startDate": "2024-09",
+      "endDate": "2024-12",
+      "summary": "STEM SMART is a widening participation initiative from the University of Cambridge in association with Isaac Physics, to provide free, complementary teaching and support students who attend a UK maintained school.",
+      "description": {
+        "role": "delivered weekly supervisions to 17 students, following the Computer Science A-level curriculum."
+      }
     }
   ],
   "volunteering": [
@@ -321,6 +347,39 @@
       }    
     }
   ],
+  "awards": [
+    {
+      "title": "Jennings Prize ",
+      "date": "2023-07-11",
+      "awarder": "Wolfson College, University of Cambridge",
+      "url": "https://www.wolfson.cam.ac.uk/academic-prizes",
+      "summary": "Awarded for outstanding academic accomplishments, namely a First Class or a Distinction in a University Examination (£300)."
+    },
+    {
+      "title": "Best Insight (Honorable Mention)",
+      "date": "2021-03-28",
+      "awarder": "ASA DataFest 2021, University of Edinburgh",
+      "url": "https://datafest-edi.github.io/web/df2021/",
+      "summary": "Participated in the ASA DataFest, a data analysis competition, in a team of four. For this competition the Rocky Mountain Poison and Drug Safety Center was interested in discovering and identifying patterns of drug use, with particular attention paid to identifying misuse. The judges were impressed with our presentation and our choice to focus on maximum possible prison sentence, as well as how we compared the data provided with other data sources to get a sense of representativeness."
+    },
+    {
+      "title": "\"Procedurally-generated game\" challenge winner",
+      "date": "2020-03-01",
+      "awarder": "Hack The Burgh 7, University of Edinburgh",
+      "url": "https://2020.hacktheburgh.com",
+      "summary": "Participated in the hackathon organised by the School of Informatics, and won the \"Procedurally-generated game\" sponsored by Craneware. Our game generated an ice-slide on the sea from the frequency wave of user-inputted music files. Users could press on the space bar to change a penguin's gliding direction (left to right or vice versa) to avoid falling into the water. As the music progressed, the slide grew thinner, making the game more difficult, and showcasing the effects global warming on the melting ice-cap. Rubbish and sea-fauna were also depicted to show the animal suffering from climate change and water pollution."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
+  ],
   "skills": [
     {
       "name": "Physics",
@@ -334,16 +393,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
