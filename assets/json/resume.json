@@ -16,28 +16,6 @@
     "linkedin": "https://www.linkedin.com/in/gabrielle-gaudeau-a98240182/",
     "github": "https://github.com/gabigaudeau"
   },
-  "languages": [
-    {
-      "language": "French",
-      "fluency": "Native speaker",
-      "icon": "🇫🇷"
-    },
-    {
-      "language": "English",
-      "fluency": "Native speaker",
-      "icon": "🇬🇧"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Advanced (B2/C1)",
-      "icon": "🇪🇸"
-    },
-    {
-      "language": "Japanese",
-      "fluency": "Intermediate (B1)",
-      "icon": "🇯🇵"
-    }
-  ],
   "education": [
     {
       "institution": "University of Cambridge",
@@ -493,6 +471,28 @@
         "Agile methodologies",
         "Figma"
       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": "🇫🇷"
+    },
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": "🇬🇧"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Advanced (B2/C1)",
+      "icon": "🇪🇸"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Intermediate (B1)",
+      "icon": "🇯🇵"
     }
   ]
 }
