@@ -22,8 +22,7 @@
 ## Gabi notes
 
 <!-- > docker compose build
-> docker compose up
-> http://localhost:8080/cv/ -->
+> docker compose up -->
 
 ## Recommended Approach
 
