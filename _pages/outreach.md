@@ -2,11 +2,13 @@
 layout: page
 permalink: /outreach/
 title: outreach
-description: a list of my many extra-curriculars...
+description: "what is mine is yours: teaching materials to learn, share, and inspire"
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+---
+## Introduction to AI
 
-Organize your courses by years, topics, or universities, however you like!
+<emph>The course outlined below was personally developped for the <a href="https://www.cai.cam.ac.uk/access-outreach/schemes-and-events/cambridge-higher-aspirations-scheme">Cambridge Higher Aspirations Scheme (CHAS)</a>. All external materials have been carefully credited where used. This work is shared under a <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">Creative Commons Attribution-NonCommercial 4.0 International License.</a></emph>
+

@@ -403,22 +403,34 @@
       "date": "2020-03-01",
       "awarder": "Hack The Burgh 7, University of Edinburgh",
       "url": "https://2020.hacktheburgh.com",
-      "summary": "Participated in the hackathon organised by the School of Informatics, and won the \"Procedurally-generated game\" sponsored by Craneware. Our game generated an ice-slide on the sea from the frequency wave of user-inputted music files. Users could press on the space bar to change a penguin's gliding direction (left to right or vice versa) to avoid falling into the water. As the music progressed, the slide grew thinner, making the game more difficult, and showcasing the effects global warming on the melting ice-cap. Rubbish and sea-fauna were also depicted to show the animal suffering from climate change and water pollution."
+      "summary": "Participated in the hackathon organised by the School of Informatics, and won the \"Procedurally-generated game\" sponsored by Craneware. See \"Malfunctioning Penguin\" in Projects."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "\"Malfunctioning Penguin\" Game",
+      "summary": "Group project completed during the 24-hour-long hackathon \"Hack The Burgh 7\" that was awarded best \"Procedurally-generated game\".",
+      "date": "2020-03-01",
+      "description": {
+        "procedural-generation": "the game generates an ice-slide on the sea from the frequency wave of user-inputted music files. Users press on the space bar to change a penguin's gliding direction (left to right or vice versa) to avoid falling into the water.",
+        "environmentally conscious": "as the music progresses, the slide grows thinner, making the game more difficult, and showcasing the effects global warming on the melting ice-cap. Rubbish and sea-fauna are also depicted to show the animal suffering from water pollution."
+      },
+      "url": "https://github.com/jolpica/2020-hack-the-burgh"
+    },
+    {
+      "name": "\"r/roastme\" Web Application",
+      "summary": "Group project completed during the 24-hour-long hackathon \"Hack The Burgh 6\". This full-stack web app allows a user to upload a picture to receive a personalised offensive \"roast\". The project was greatly praised for its originality but deemed too controversial to award.",
+      "date": "2019-03-17",
+      "description": {
+        "machine learning": "we first built a dataset of face encodings linked to top comments scraped from the subreddit r/roastme. The app returns a roast most relevant to user-uploads using the Python library ageitgey/face_recognition.",
+        "natural-language processing": "although it was not added to the final app in time for the hack, we also worked on generating short rhyming poems based on the returned roasts. "
+      },
+      "url": "https://github.com/gabigaudeau/HackTheBurgh"
     }
   ],
   "skills": [
     {
-      "name": "Computer Science",
+      "name": "Computer science",
       "icon": "fa-solid fa-computer",
       "keywords": [
         "Artificial Intelligence",
