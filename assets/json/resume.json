@@ -262,6 +262,20 @@
       }
     }
   ],
+  "event participation": [
+    {
+      "role": "Volunteer and session chair",
+      "event": "IVACS",
+      "year": "2024",
+      "url" : "https://www.ivacs2024.com"
+    },
+    {
+      "role": "Speaker and poster presentation",
+      "event": "Language Sciences Annual Symposium",
+      "year": "2024",
+      "url" : "https://www.google.com/search?client=safari&rls=en&q=cambridge+language+sciences+symposium&ie=UTF-8&oe=UTF-8"
+    }
+  ],
   "reviewing": [
     {
       "role": "Reviewer",
@@ -439,6 +453,28 @@
       "url": "https://github.com/gabigaudeau/HackTheBurgh"
     }
   ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": "🇫🇷"
+    },
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": "🇬🇧"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Advanced (B2/C1)",
+      "icon": "🇪🇸"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Intermediate (B1)",
+      "icon": "🇯🇵"
+    }
+  ],
   "skills": [
     {
       "name": "Computer science",
@@ -504,28 +540,6 @@
         "Agile methodologies",
         "Figma"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "French",
-      "fluency": "Native speaker",
-      "icon": "🇫🇷"
-    },
-    {
-      "language": "English",
-      "fluency": "Native speaker",
-      "icon": "🇬🇧"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Advanced (B2/C1)",
-      "icon": "🇪🇸"
-    },
-    {
-      "language": "Japanese",
-      "fluency": "Intermediate (B1)",
-      "icon": "🇯🇵"
     }
   ]
 }
