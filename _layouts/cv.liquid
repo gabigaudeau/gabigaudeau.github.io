@@ -85,7 +85,7 @@ layout: default
                   {% include resume/basics.liquid %}
                 {% when 'education' %}
                   {% include resume/education.liquid %}
-                {% when 'Industry Experience' %}
+                {% when 'industry experience' %}
                   {% include resume/work.liquid %}
                 {% when 'volunteering' %}
                   {% include resume/volunteer.liquid %}
@@ -99,12 +99,12 @@ layout: default
                   {% include resume/publications.liquid %}
                 {% when 'languages' %}
                   {% include resume/languages.liquid %}
-                {% when 'Teaching & Outreach' %}
+                {% when 'teaching & outreach' %}
                   {% include resume/teaching.liquid %}
                 {% when 'certificates' %}
                   {% include resume/certificates.liquid %}
-                {% when 'references' %}
-                  {% include resume/references.liquid %}
+                {% when 'reviewing' %}
+                  {% include resume/reviewing.liquid %}
                 {% else %}
 
               {% endcase %}

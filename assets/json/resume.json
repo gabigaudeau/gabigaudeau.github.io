@@ -98,7 +98,7 @@
       "bib": "/assets/bibliography/gaudeau_elliptic_2022.bib"
     }
   ],
-  "Industry Experience": [
+  "industry experience": [
     {
       "name": "TechWolf ",
       "location": "Ghent, Belgium",
@@ -167,7 +167,7 @@
       }
     }
   ],
-  "Teaching & Outreach": [
+  "teaching & outreach": [
     {
       "name": "University of Edinburgh ",
       "location": "Edinburgh, UK",
@@ -260,6 +260,32 @@
       "description": {
         "role": "will deliver the same course as in 2024."
       }
+    }
+  ],
+  "reviewing": [
+    {
+      "role": "Reviewer",
+      "event": "LXAI @ NAACL",
+      "year": "2024",
+      "url": "https://www.latinxinai.org/naacl-2024?srsltid=AfmBOooJVrmcpbf4okOV14PHLGQxPzTm7pZeRX5p4lTG9Y_fwtrzvk--"
+    },
+    {
+      "role": "Secondary Reviewer",
+      "event": "BEA",
+      "year": "2024",
+      "url": "https://sig-edu.org/bea/2024"
+    },
+    {
+      "role": "Program committee member and reviewer",
+      "event": "WRAICOGS @ COLING",
+      "year": "2025",
+      "url" : "https://sites.google.com/view/wraicogs1"
+    },
+    {
+      "role": "Emergency reviewer",
+      "event": "ACL",
+      "year": "2025",
+      "url": "https://2025.aclweb.org"
     }
   ],
   "volunteering": [
@@ -363,7 +389,14 @@
   ],
   "awards": [
     {
-      "title": "Jennings Prize ",
+      "title": "Top Reviewer",
+      "date": "2024-06-16",
+      "awarder": "LXAI @ NAACL",
+      "url": "https://www.latinxinai.org/naacl-2024?srsltid=AfmBOoqKcw-M3Ayphbje9qDQoau-B5e_8HZaH6Y68MdXdoMSu2SjsiFN",
+      "summary": "Awarded to the best three reviewers of the workshop."
+    },
+    {
+      "title": "Jennings Prize",
       "date": "2023-07-11",
       "awarder": "Wolfson College, University of Cambridge",
       "url": "https://www.wolfson.cam.ac.uk/academic-prizes",
