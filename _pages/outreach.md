@@ -86,5 +86,5 @@ Hopefully this has gotten you a bit excited.</p>
 
 <hr>
 
-<p>This work is shared under a <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">Creative Commons Attribution-NonCommercial 4.0 International License.</a></p>
+<p>This work is shared under a <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.en">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
 
