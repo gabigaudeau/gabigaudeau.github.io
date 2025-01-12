@@ -26,11 +26,17 @@ Hopefully this has gotten you a bit excited.</p>
 
 <p>This is my first time designing a course, so I am be very open to feedback and suggestions. If there is something specific you would like to ask or learn about, don’t be shy and reach out to me about it!<p>
 
+<p>Preparation work: <a href="/assets/pdf/CHAS/Lab 0 (original).pdf">Lab 0</a>.</p>
+
 <h4>Supervision 1: Artificial Intelligence</h4>
 
 <p><em>What is AI and why is it important?</em></p>
 
 <p><a href="/assets/pdf/CHAS/Supervision 1_ Plan (original).pdf">Supervision Plan</a></p>
+
+<p><iframe src="https://1drv.ms/p/c/d0db6fdae47a2912/IQRSeWvHL6oxSrGmGV0fZCQUAYiMgcBwODzjIppS5uoL4AU" width="402" height="327" frameborder="0" scrolling="no"></iframe></p>
+
+<p>Homework: <a href="https://drive.google.com/file/d/1S--mHNV8zxtCGLqHdES6XdNlGX0Hsv_w/view?usp=share_link">Lab 1</a>.</p>
 
 <h4>Supervision 2: Data Science</h4>
 
@@ -38,11 +44,21 @@ Hopefully this has gotten you a bit excited.</p>
 
 <p><a href="/assets/pdf/CHAS/Supervision 2_ Plan (original).pdf">Supervision Plan</a></p>
 
+<p><iframe src="https://1drv.ms/p/c/d0db6fdae47a2912/IQRrLCv6qmZeSapu2vUu085LATdgQS53SLQEzc60JqdU7Ug" width="402" height="327" frameborder="0" scrolling="no"></iframe></p>
+
+<p>Homework: <a href="https://colab.research.google.com/drive/1GsTZk7sLvNydW39-kEhNWDgQXQ7523rW?usp=share_link">Lab 2</a>.</p>
+
 <h4>Supervision 3: Telling a Cat from a Dog</h4>
 
 <p><em>Can AI tell a cat from a dog (classification)?</em></p>
 
 <p><a href="/assets/pdf/CHAS/Supervision 3_ Plan (original).pdf">Supervision Plan</a></p>
+
+<p><iframe src="https://1drv.ms/p/c/d0db6fdae47a2912/IQS-QsEFozC-SKTaxyh9qKO9Aa705I4oOzz_Nnx-LWnTyvY" width="402" height="327" frameborder="0" scrolling="no"></iframe></p>
+
+<p>Homework: <a href="https://colab.research.google.com/drive/1bKpiHvl_HVZc_oXbzcewkNT_J-J2UvhU?usp=share_link">Lab 3</a> (<a href="https://colab.research.google.com/drive/15iPOqRAkwrQsN7s0cGxjNEJpvL-lkagT?usp=share_link">solution</a>).</p>
+
+<p>Activity: <a href="https://colab.research.google.com/drive/1Ds7yba_yNkkJgtVHp0Y2ZIKgzNgcCVIf?usp=share_link">Lab 3.5</a>.</p>
 
 <h4>Supervision 4: Predicting the Future with the Past</h4>
 
@@ -50,12 +66,19 @@ Hopefully this has gotten you a bit excited.</p>
 
 <p><a href="/assets/pdf/CHAS/Supervision 4_ Plan (original).pdf">Supervision Plan</a></p>
 
+<p><iframe src="https://1drv.ms/p/c/d0db6fdae47a2912/IQTSEXkhAXDOT7tyFCGBbcwdAT2BGheiBOZIVyRyxeJxAlI" width="402" height="327" frameborder="0" scrolling="no"></iframe></p>
+
+<p>Homework: <a href="/assets/pdf/CHAS/Lab 4 (original).pdf">Lab 4</a>.</p>
 
 <h4>Supervision 5: Hopes and Fears of AI</h4>
 
 <p><em>What risks does AI pose and how to mitigate them?</em></p>
 
 <p><a href="/assets/pdf/CHAS/Supervision 5_ Plan (original).pdf">Supervision Plan</a></p>
+
+<p><iframe src="https://1drv.ms/p/c/d0db6fdae47a2912/IQRwE9JQ0n76QZG2-e_ArUpqAQvsVn3DZoaNfcclKgwBPYM" width="402" height="327" frameborder="0" scrolling="no"></iframe></p>
+
+<p>Homework: personal project.</p>
 
 <h4>Supervision 6: Presentation</h4>
 
