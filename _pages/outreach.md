@@ -24,7 +24,7 @@ Hopefully this has gotten you a bit excited.</p>
 
 <p>My research interests sit at the intersection of Artificial Intelligence (which will be the main topic of our supervisions together), Linguistics and Education. Specifically, I work closely with <a href="https://www.cambridge.org/">Cambridge University Press & Assessment</a> on automating essay assessment and feedback within schools or for large English standardised tests. This is all very specific (as most PhDs are), but if this is of interest to you, feel free to ask me about it.</p>
 
-<p>This is my first time designing a course, so I am be very open to feedback and suggestions. If there is something specific you would like to ask or learn about, don’t be shy and reach out to me about it!<p>
+<p>This is my first time designing a course, so I am very open to feedback and suggestions. If there is something specific you would like to ask or learn about, don’t be shy and reach out to me about it!<p>
 
 <p>Preparation work: <a href="/assets/pdf/CHAS/Lab 0 (original).pdf">Lab 0</a>.</p>
 
