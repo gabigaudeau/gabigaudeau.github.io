@@ -10,7 +10,7 @@ nav_order: 6
 ---
 ## Introduction to AI
 
-<p><emph>The course outlined below was developped by me for the <a href="https://www.cai.cam.ac.uk/access-outreach/schemes-and-events/cambridge-higher-aspirations-scheme">Cambridge Higher Aspirations Scheme (CHAS)</a>. All external materials have been carefully credited where used.
+<p><emph>The course outlined below was developped by me for the <a href="https://www.cai.cam.ac.uk/access-outreach/schemes-and-events/cambridge-higher-aspirations-scheme">Cambridge Higher Aspirations Scheme (CHAS)</a>. All external materials have been carefully credited.
 
 <h4>Introduction and Overview</h4>
 
