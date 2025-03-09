@@ -85,7 +85,7 @@
       "name": "Multi-Task Learning for Multi-Dimensional Essay Scoring (Master's thesis)",
       "publisher": "Computer Laboratory, University of Cambridge",
       "releaseDate": "2023",
-      "authors": "Gabrielle Gaudeau", 
+      "authors": "Gabrielle Gaudeau",
       "pdf": "/assets/pdf/mphil_thesis.pdf",
       "bib": "/assets/bibliography/gaudeau_multi_2023.bib"
     },
@@ -93,7 +93,7 @@
       "name": "Elliptic Curve Cryptography (Bachelor's thesis)",
       "publisher": "School of Mathematics, University of Edinburgh",
       "releaseDate": "2022",
-      "authors": "Gabrielle Gaudeau", 
+      "authors": "Gabrielle Gaudeau",
       "pdf": "/assets/pdf/bsc_hons_thesis.pdf",
       "bib": "/assets/bibliography/gaudeau_elliptic_2022.bib"
     }
@@ -267,19 +267,19 @@
       "role": "Volunteer and session chair",
       "event": "IVACS",
       "year": "2024",
-      "url" : "https://www.ivacs2024.com"
+      "url": "https://www.ivacs2024.com"
     },
     {
       "role": "Speaker and poster presentation",
       "event": "Language Sciences Annual Symposium",
       "year": "2024",
-      "url" : "https://www.google.com/search?client=safari&rls=en&q=cambridge+language+sciences+symposium&ie=UTF-8&oe=UTF-8"
+      "url": "https://www.google.com/search?client=safari&rls=en&q=cambridge+language+sciences+symposium&ie=UTF-8&oe=UTF-8"
     },
     {
       "role": "Publicity chair",
       "event": "2nd Workshop on the Automatic Evaluation of Learning and Assessment Content @ AIED",
       "year": "2025",
-      "url" : "https://aied2025.itd.cnr.it"
+      "url": "https://aied2025.itd.cnr.it"
     }
   ],
   "reviewing": [
@@ -299,7 +299,7 @@
       "role": "Program committee member and reviewer",
       "event": "WRAICOGS @ COLING",
       "year": "2025",
-      "url" : "https://sites.google.com/view/wraicogs1"
+      "url": "https://sites.google.com/view/wraicogs1"
     },
     {
       "role": "Ethics and Emergency reviewer",
@@ -320,7 +320,7 @@
       "description": {
         "role": "gathered feebdack from my cohort and reported to department staff in weekly meetings, acted as a liaison between both parties.",
         "initiatives": "organised and led revision sessions to help failing students."
-      }    
+      }
     },
     {
       "organization": "University of Edinburgh",
@@ -332,7 +332,7 @@
       "summary": "School of Informatics Peer Learning Support Scheme Volunteer.",
       "description": {
         "role": "after rigorous training, I planned and facilitated weekly revision sessions and workshops for first-year students throughout the year."
-      }    
+      }
     },
     {
       "organization": "Edinburgh University Salsa Society",
@@ -344,7 +344,7 @@
       "summary": "Part of the executive committee of the society, second to the President.",
       "description": {
         "role": "charged with time-tabling, and booking rooms for the many professional dance classes offered by the society, keeping meeting agendas and minutes, and helping the President in all matters."
-      }    
+      }
     },
     {
       "organization": "Edinburgh University Salsa Society",
@@ -356,7 +356,7 @@
       "summary": "Acted as coordinator between the executive committee of the society, the performance team's professional choreographers and its members.",
       "description": {
         "role": "charged with time-tabling, and booking rooms for the performance team practices, and was an active member of the team."
-      }    
+      }
     },
     {
       "organization": "University of Cambridge",
@@ -368,7 +368,7 @@
       "summary": "Part of the Postgraduate Students' Forum, with a representative from each of the research groups of the department.",
       "description": {
         "role": "gathered feedback from my group's postagraduate students to help improve the wellbeing of students in termly meetings."
-      }    
+      }
     },
     {
       "organization": "University of Cambridge",
@@ -380,7 +380,7 @@
       "summary": "This programme aims to encourage women and non-binary students in Year 12 (aged 16-17) to consider studying Computer Science at university.",
       "description": {
         "role": "met monthly with two students and provided guidance and feedback as they worked on small individual research projects."
-      }    
+      }
     },
     {
       "organization": "University of Cambridge",
@@ -392,7 +392,7 @@
       "summary": "Part of the department's Building and Environment Committee.",
       "description": {
         "role": "gathered feedback from postgraduate students to raise any issues with the learning environment in bimonthly meetings."
-      }    
+      }
     },
     {
       "organization": "IVACS 2024",
@@ -404,7 +404,7 @@
       "summary": "The Inter-Varietal Applied Corpus Studies (IVACS) Conference.",
       "description": {
         "role": "Helped advertise the conference through different social channels. Then on 16/17th of July: attended the conference, chairing individual sessions and helping with the organisation on the day."
-      }    
+      }
     }
   ],
   "awards": [
@@ -485,67 +485,32 @@
     {
       "name": "Computer science",
       "icon": "fa-solid fa-computer",
-      "keywords": [
-        "Artificial Intelligence",
-        "Deep Learning",
-        "Human-Computer Interaction",
-        "Advanced Databases"
-      ]
+      "keywords": ["Artificial Intelligence", "Deep Learning", "Human-Computer Interaction", "Advanced Databases"]
     },
     {
       "name": "Programming",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python (expert)",
-        "Java (proficient)",
-        "C# (proficient)",
-        "SQL (intermediate)",
-        "Haskell (basic)"
-      ]
+      "keywords": ["Python (expert)", "Java (proficient)", "C# (proficient)", "SQL (intermediate)", "Haskell (basic)"]
     },
     {
       "name": "Language processing",
       "icon": "fa-solid fa-quote-right",
-      "keywords": [
-       "Large language models",
-       "Transformers",
-       "Syntactic parsing",
-       "SpaCy", 
-       "WordNet"
-      ]
+      "keywords": ["Large language models", "Transformers", "Syntactic parsing", "SpaCy", "WordNet"]
     },
     {
       "name": "ML tools",
       "icon": "fa-solid fa-brain",
-      "keywords": [
-        "Pandas",
-        "NumPy",
-        "Scikit-learn", 
-        "PyTorch",
-        "Comet.ml"
-      ]
+      "keywords": ["Pandas", "NumPy", "Scikit-learn", "PyTorch", "Comet.ml"]
     },
     {
       "name": "Web development",
       "icon": "fa-solid fa-display",
-      "keywords": [
-        "HTML", 
-        "CSS", 
-        "Flutter",
-        "JavaScript (React)",
-        "Django"
-      ]
+      "keywords": ["HTML", "CSS", "Flutter", "JavaScript (React)", "Django"]
     },
     {
       "name": "Other technical skills",
       "icon": "fa-solid fa-keyboard",
-      "keywords": [
-        "Git", 
-        "Docker", 
-        "Azure Cloud",
-        "Agile methodologies",
-        "Figma"
-      ]
+      "keywords": ["Git", "Docker", "Azure Cloud", "Agile methodologies", "Figma"]
     }
   ]
 }
