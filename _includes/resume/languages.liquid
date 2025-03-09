@@ -9,10 +9,13 @@
             {% for item in content.items %}
               {% assign i = i | plus: 1 %}
             {% endfor %}
-            <h6 colspan="{{ i }}" class="list-group-name">{{ content.icon }} {{ content.language }}</h6>
+            <h6 colspan="{{ i }}" class="list-group-name">
+              {{ content.icon }}
+              {{ content.language }}
+            </h6>
           </tr>
           <td class="list-group-name">
-              <b>{{ content.fluency }}</b>
+            <b>{{ content.fluency }}</b>
           </td>
         </tbody>
       </table>
