@@ -274,6 +274,12 @@
       "event": "Language Sciences Annual Symposium",
       "year": "2024",
       "url" : "https://www.google.com/search?client=safari&rls=en&q=cambridge+language+sciences+symposium&ie=UTF-8&oe=UTF-8"
+    },
+    {
+      "role": "Publicity chair",
+      "event": "2nd Workshop on the Automatic Evaluation of Learning and Assessment Content @ AIED",
+      "year": "2025",
+      "url" : "https://aied2025.itd.cnr.it"
     }
   ],
   "reviewing": [
@@ -296,7 +302,7 @@
       "url" : "https://sites.google.com/view/wraicogs1"
     },
     {
-      "role": "Emergency reviewer",
+      "role": "Ethics and Emergency reviewer",
       "event": "ACL",
       "year": "2025",
       "url": "https://2025.aclweb.org"
