@@ -16,7 +16,7 @@ nav_order: 2
 <h4 id="2022">2022</h4> -->
 <hr>
 
-<h4 id="2025">2024</h4>
+<h4 id="2025">2025</h4>
 <ul>
   <li>
     <p><strong>Rubrik's Cube: Testing a New Rubric for Evaluating Explanations on the CUBE dataset</strong>, Diana Galvan-Sosa, Gabrielle Gaudeau, Pride Kavumba, Yunmeng Li, Hongyi gu, Zheng Yuan, Keisuke Sakaguchi, Paula Buttery, 2025, <em>submitted to ACL 2025 (under review)</em>, <a href="https://arxiv.org/pdf/2503.23899">pdf</a>, <a href="/assets/bibliography/galvansosa_rubrik_2025.bib">bib</a></p>
