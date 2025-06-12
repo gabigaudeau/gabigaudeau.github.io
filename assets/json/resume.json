@@ -296,15 +296,21 @@
     },
     {
       "role": "Speaker and poster presentation",
-      "event": "Language Sciences Annual Symposium",
+      "event": "Language Sciences Annual Symposium @ University of Cambridge, UK",
       "year": "2024",
-      "url": "https://www.google.com/search?client=safari&rls=en&q=cambridge+language+sciences+symposium&ie=UTF-8&oe=UTF-8"
+      "url": "https://www.languagesciences.cam.ac.uk/events/language-sciences-annual-symposium-2024-how-can-learning-second-language-be-made-effortless"
     },
     {
       "role": "Publicity chair",
       "event": "EVALLAC @ AIED",
       "year": "2025",
       "url": "https://sites.google.com/cam.ac.uk/eval-lac-2025/home"
+    },
+    {
+      "role": "Speaker",
+      "event": "Workshop with the Language and AI in Education Lab @ University of Tübingen, Germany",
+      "year": "2025",
+      "url": "https://nextcloud.iwm-tuebingen.de/s/HC5RCGgxKMzmRqR"
     }
   ],
   "reviewing": [
@@ -419,7 +425,7 @@
       "position": "Building and Environment PhD Representative",
       "url": "https://www.cst.cam.ac.uk/people/gjg34",
       "startDate": "2023-09",
-      "endDate": "",
+      "endDate": "2025-06",
       "summary": "Part of the department's Building and Environment Committee.",
       "description": {
         "role": "gathered feedback from postgraduate students to raise any issues with the learning environment in bimonthly meetings."
@@ -434,7 +440,7 @@
       "endDate": "2024-07",
       "summary": "The Inter-Varietal Applied Corpus Studies (IVACS) Conference.",
       "description": {
-        "role": "Helped advertise the conference through different social channels. Then on 16/17th of July: attended the conference, chairing individual sessions and helping with the organisation on the day."
+        "role": "helped advertise the conference through different social channels. Then on 16/17th of July: attended the conference, chairing individual sessions and helping with the organisation on the day."
       }
     },
     {
@@ -444,9 +450,9 @@
       "url": "https://www.cst.cam.ac.uk/people/gjg34",
       "startDate": "2025-02",
       "endDate": "2025-07",
-      "summary": "As previously.",
+      "summary": "This programme aims to encourage women and non-binary students in Year 12 (aged 16-17) to consider studying Computer Science at university.",
       "description": {
-        "role": "Met monthly with a single student and provided guidance and feedback as they worked on a research project on the applications of AI in medicine."
+        "role": "met monthly with a single student and provided guidance and feedback as they worked on a research project on the applications of AI in medicine."
       }
     }
   ],
