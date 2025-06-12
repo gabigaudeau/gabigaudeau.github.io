@@ -73,6 +73,14 @@
     }
   ],
   "publications": [
+     {
+      "name": "Beyond the Gold Standard in Analytic Automated Essay Scoring",
+      "publisher": "submitted to ACL Student Research Workshop (SRW) 2025 (under review)",
+      "releaseDate": "2025",
+      "authors": "Gabrielle Gaudeau",
+      "pdf": "assets/pdf/acl_srw_2025.pdf",
+      "bib": "assets/bibliography/gaudeau_beyond_2025.bib"
+    },
     {
       "name": "Rubrik's Cube: Testing a New Rubric for Evaluating Explanations on the CUBE dataset",
       "publisher": "submitted to ACL 2025 (under review)",
