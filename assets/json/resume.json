@@ -26,7 +26,7 @@
       "startDate": "2023-10",
       "endDate": "",
       "description": {
-        "topic": "Automated Analytic Essay Scoring and Feedback Generation.",
+        "topic": "Analytic Automated Essay Scoring and Feedback Generation.",
         "supervisor": "Paula Buttery, Andrew Caines, and Øistein Andersen.",
         "funding": "fully funded by the Cambridge ALTA Institute, supported by Cambridge University Press & Assessment."
       }
@@ -83,7 +83,7 @@
     },
     {
       "name": "Rubrik's Cube: Testing a New Rubric for Evaluating Explanations on the CUBE dataset",
-      "publisher": "submitted to ACL 2025 (under review)",
+      "publisher": "accepted to ACL 2025",
       "releaseDate": "2025",
       "authors": "Diana Galvan-Sosa, Gabrielle Gaudeau, Pride Kavumba, Yunmeng Li, Hongyi Gu, Zheng Yuan, Keisuke Sakaguchi, Paula Buttery",
       "pdf": "https://arxiv.org/pdf/2503.23899",
@@ -115,6 +115,15 @@
     }
   ],
   "industry experience": [
+    {
+      "name": "IBM Research",
+      "location": "Hursley, UK",
+      "position": "Generative AI for Sustainability Intern",
+      "url": "https://www.ibm.com/about",
+      "startDate": "2025-06",
+      "endDate": "2025-09",
+      "summary": "Will be completing a 3-month internship."
+    },
     {
       "name": "TechWolf ",
       "location": "Ghent, Belgium",
@@ -293,7 +302,7 @@
     },
     {
       "role": "Publicity chair",
-      "event": "2nd Workshop on the Automatic Evaluation of Learning and Assessment Content @ AIED",
+      "event": "EVALLAC @ AIED",
       "year": "2025",
       "url": "https://sites.google.com/cam.ac.uk/eval-lac-2025/home"
     }
@@ -318,10 +327,16 @@
       "url": "https://sites.google.com/view/wraicogs1"
     },
     {
-      "role": "Ethics and emergency reviewer",
+      "role": "Ethics, reviewer and emergency reviewer",
       "event": "ACL",
       "year": "2025",
       "url": "https://2025.aclweb.org"
+    },
+    {
+      "role": "Reviewer",
+      "event": "EVALLAC @ AIED",
+      "year": "2025",
+      "url": "https://sites.google.com/cam.ac.uk/eval-lac-2025/home"
     }
   ],
   "volunteering": [
@@ -420,6 +435,18 @@
       "summary": "The Inter-Varietal Applied Corpus Studies (IVACS) Conference.",
       "description": {
         "role": "Helped advertise the conference through different social channels. Then on 16/17th of July: attended the conference, chairing individual sessions and helping with the organisation on the day."
+      }
+    },
+    {
+      "organization": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "position": "Women in Computer Science Programme Mentor",
+      "url": "https://www.cst.cam.ac.uk/people/gjg34",
+      "startDate": "2025-02",
+      "endDate": "2025-07",
+      "summary": "As previously.",
+      "description": {
+        "role": "Met monthly with a single student and provided guidance and feedback as they worked on a research project on the applications of AI in medicine."
       }
     }
   ],
