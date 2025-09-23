@@ -19,10 +19,16 @@ nav_order: 2
 <h4 id="2025">2025</h4>
 <ul>
   <li>
-    <p><strong>Beyond the Gold Standard in Analytic Automated Essay Scoring</strong>, <u>Gabrielle Gaudeau</u>, 2025, <em>submitted to ACL Student Research Workshop (SRW) 2025</em>, <a href="/assets/pdf/acl_srw_2025.pdf">pdf</a>, <a href="/assets/bibliography/gaudeau_beyond_2025.bib">bib</a></p>
+    <p><strong>Verifiable Chemical Reasoning through Tool-Calling Agentic Workflow</strong>, <u>Gabrielle Gaudeau</u>, Shinnosuke Tanaka, Defne Circi, Ian Kennedy, Movina Moses, Mohab Elkaref, 2025, <em>submitted to NeurIPS SEA Workshop 2025</em>
   </li>
   <li>
-    <p><strong>Rubrik's Cube: Testing a New Rubric for Evaluating Explanations on the CUBE dataset</strong>, Diana Galvan-Sosa, <u>Gabrielle Gaudeau</u>, Pride Kavumba, Yunmeng Li, Hongyi gu, Zheng Yuan, Keisuke Sakaguchi, Paula Buttery, 2025, <em>accepted to ACL 2025</em>, <a href="https://arxiv.org/pdf/2503.23899">pdf</a>, <a href="/assets/bibliography/galvansosa_rubrik_2025.bib">bib</a></p>
+    <p><strong>Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction</strong>, Suchir Salhan, Hongyi Gu, Diana Galvan-Sosa, Donya Rooein, <u>Gabrielle Gaudeau</u>, Andrew Caines, Zheng Yuan, Paula Buttery, 2025, <em>accepted to EMNLP 3rd BabyLM Workshop 2025</em>
+  </li>
+  <li>
+    <p><strong>Beyond the Gold Standard in Analytic Automated Essay Scoring</strong>, <u>Gabrielle Gaudeau</u>, 2025, <em>accepted to ACL Student Research Workshop (SRW) 2025</em>, <a href="https://aclanthology.org/2025.acl-srw.2.pdf">pdf</a>, <a href="/assets/bibliography/gaudeau_beyond_2025.bib">bib</a></p>
+  </li>
+  <li>
+    <p><strong>Rubrik's Cube: Testing a New Rubric for Evaluating Explanations on the CUBE dataset</strong>, Diana Galvan-Sosa, <u>Gabrielle Gaudeau</u>, Pride Kavumba, Yunmeng Li, Hongyi gu, Zheng Yuan, Keisuke Sakaguchi, Paula Buttery, 2025, <em>accepted to ACL 2025</em>, <a href="https://aclanthology.org/2025.acl-long.1160.pdf">pdf</a>, <a href="/assets/bibliography/galvansosa_rubrik_2025.bib">bib</a></p>
   </li>
 </ul>
 

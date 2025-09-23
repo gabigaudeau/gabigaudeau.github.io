@@ -73,9 +73,15 @@
     }
   ],
   "publications": [
-     {
+    {
+      "name": "Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction",
+      "published": "accepted to EMNLP 3rd BabyLM Workshop 2025",
+      "releaseDate": "2025",
+      "authors": "Suchir Salhan, Hongyi Gu, Diana Galvan-Sosa, Donya Rooein, Gabrielle Gaudeau, Andrew Caines, Zheng Yuan, Paula Buttery"
+    },
+    {
       "name": "Beyond the Gold Standard in Analytic Automated Essay Scoring",
-      "publisher": "submitted to ACL Student Research Workshop (SRW) 2025 (under review)",
+      "publisher": "accepted to ACL Student Research Workshop (SRW) 2025",
       "releaseDate": "2025",
       "authors": "Gabrielle Gaudeau",
       "pdf": "/assets/pdf/acl_srw_2025.pdf",
@@ -122,7 +128,11 @@
       "url": "https://www.ibm.com/about",
       "startDate": "2025-06",
       "endDate": "2025-09",
-      "summary": "Will be completing a 3-month internship."
+      "summary": "A 12-week internship working on adapting an IBM Granite model to the Chemistry domain.",
+      "description": {
+        "project": "curated a dataset of different chemistry tasks (e.g., SMILES completion) and then used GRPO to fine-tune a series of different base Large Language Models (LLMs) models to create a general-purpose chemistry reasoning model. Also created a series of agents/tools to solve the chemistry tasks and explored an agentic system alternative to the monolithic chemistry reasoning model approach. These models were evaluated on a series of chemistry benchmarks (MMLU Pro Chemistry, ChemBench Mini, and ether0).",
+        "research": "this work led to a paper which was submitted to the SEA @ NeurIPS 2025 workshop (under review)."
+      }
     },
     {
       "name": "TechWolf ",
@@ -343,6 +353,12 @@
       "event": "EVALLAC @ AIED",
       "year": "2025",
       "url": "https://sites.google.com/cam.ac.uk/eval-lac-2025/home"
+    },
+     {
+      "role": "Reviewer",
+      "event": "SEA @ NeurIPS",
+      "year": "2025",
+      "url": "https://sea-workshop.github.io"
     }
   ],
   "volunteering": [
