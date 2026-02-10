@@ -16,13 +16,20 @@ nav_order: 2
 <h4 id="2022">2022</h4> -->
 <hr>
 
+<h4 id="2026">2025</h4>
+<ul>
+  <li>
+    <p><strong>Argumentative essay assessment with LLMs: A critical scoping review</strong>, Lucile Favero, <u>Gabrielle Gaudeau</u>, Juan Antonio Pérez-Ortiz, Tanja Käser, Nuria Oliver, 2026, <em>submitted to Artificial Intelligence Review journal</em>, <a href="/assets/pdf/Argumentative_essay_assessment_with_LLMs_A_critica.pdf">pdf</a>, <a href="/assets/bibliography/favero_argumentative_2026.bib">bib</a></p>
+  </li>
+</ul>
+
 <h4 id="2025">2025</h4>
 <ul>
   <li>
-    <p><strong>Verifiable Chemical Reasoning through Tool-Calling Agentic Workflow</strong>, <u>Gabrielle Gaudeau</u>, Shinnosuke Tanaka, Defne Circi, Ian Kennedy, Movina Moses, Mohab Elkaref, 2025, <em>submitted to NeurIPS SEA Workshop 2025</em>
+    <p><strong>Verifiable Chemical Reasoning through Tool-Calling Agentic Workflow</strong>, <u>Gabrielle Gaudeau</u>, Shinnosuke Tanaka, Defne Circi, Ian Kennedy, Movina Moses, Mohab Elkaref, 2025, <em>accepted to NeurIPS SEA Workshop 2025</em>, <a href="https://openreview.net/pdf?id=L4YOJpV3k3">pdf</a>, <a href="/assets/bibliography/gaudeau_verifiable_2025.bib">bib</a></p>
   </li>
   <li>
-    <p><strong>Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction</strong>, Suchir Salhan, Hongyi Gu, Diana Galvan-Sosa, Donya Rooein, <u>Gabrielle Gaudeau</u>, Andrew Caines, Zheng Yuan, Paula Buttery, 2025, <em>accepted to EMNLP 3rd BabyLM Workshop 2025</em>
+    <p><strong>Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction</strong>, Suchir Salhan, Hongyi Gu, Diana Galvan-Sosa, Donya Rooein, <u>Gabrielle Gaudeau</u>, Andrew Caines, Zheng Yuan, Paula Buttery, 2025, <em>accepted to EMNLP 3rd BabyLM Workshop 2025</em>, <a href="https://aclanthology.org/2025.babylm-main.25.pdf">pdf</a>, <a href="/assets/bibliography/salhan-etal-2025-teacher.bib">bib</a></p>
   </li>
   <li>
     <p><strong>Beyond the Gold Standard in Analytic Automated Essay Scoring</strong>, <u>Gabrielle Gaudeau</u>, 2025, <em>accepted to ACL Student Research Workshop (SRW) 2025</em>, <a href="https://aclanthology.org/2025.acl-srw.2.pdf">pdf</a>, <a href="/assets/bibliography/gaudeau_beyond_2025.bib">bib</a></p>
