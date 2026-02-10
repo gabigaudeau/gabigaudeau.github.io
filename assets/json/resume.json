@@ -74,10 +74,30 @@
   ],
   "publications": [
     {
+      "name": "Argumentative essay assessment with LLMs: A critical scoping review",
+      "published": "submited to Artificial Intelligence Review journal",
+      "releaseDate": "2026",
+      "authors": "Lucile Favero, <u>Gabrielle Gaudeau</u>, Juan Antonio Pérez-Ortiz, Tanja Käser, Nuria Oliver",
+      "pdf": "/assets/pdf/Argumentative_essay_assessment_with_LLMs_A_critica.pdf",
+      "bib": "/assets/bibliography/favero_argumentative_2026.bib"
+    },
+    {
+      "name": "Verifiable Chemical Reasoning through Tool-Calling Agentic Workflow",
+      "published": "accepted to NeurIPS SEA Workshop 2025",
+      "releaseDate": "2025",
+      "authors": "Gabrielle Gaudeau, Shinnosuke Tanaka, Defne Circi, Ian Kennedy, Movina Moses, Mohab Elkaref",
+      "note": ", work completed while interning at IBM",
+      "pdf": "https://openreview.net/pdf?id=L4YOJpV3k3",
+      "bib": "/assets/bibliography/gaudeau_verifiable_2025.bib"
+    },
+    {
       "name": "Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction",
       "published": "accepted to EMNLP 3rd BabyLM Workshop 2025",
       "releaseDate": "2025",
-      "authors": "Suchir Salhan, Hongyi Gu, Diana Galvan-Sosa, Donya Rooein, Gabrielle Gaudeau, Andrew Caines, Zheng Yuan, Paula Buttery"
+      "authors": "Suchir Salhan, Hongyi Gu, Diana Galvan-Sosa, Donya Rooein, Gabrielle Gaudeau, Andrew Caines, Zheng Yuan, Paula Buttery",
+      "note": ", Best Paper Award",
+      "pdf": "https://aclanthology.org/2025.babylm-main.25.pdf",
+      "bib": "/assets/bibliography/salhan-etal-2025-teacher.bib"
     },
     {
       "name": "Beyond the Gold Standard in Analytic Automated Essay Scoring",
@@ -290,10 +310,34 @@
       "position": "Cambridge Higher Aspirations Scheme 2025 Supervisor",
       "url": "https://www.cai.cam.ac.uk/access-outreach/schemes-and-events/cambridge-higher-aspirations-scheme",
       "startDate": "2025-01",
-      "endDate": "",
+      "endDate": "2025-03",
       "summary": "",
       "description": {
-        "role": "will deliver the same course as in 2024."
+        "role": "delivered the same course to 16 students as in 2024."
+      }
+    },
+    {
+      "name": "University of Cambridge",
+      "location": "Cambridge, UK",
+      "position": "STEM SMART 2026 Mentor",
+      "url": "https://www.undergraduate.study.cam.ac.uk/stem-smart",
+      "startDate": "2026-01",
+      "endDate": "2026-06",
+      "summary": "STEM SMART is a widening participation initiative from the University of Cambridge in association with Isaac Physics, to provide free, complementary teaching and support students who attend a UK maintained school.",
+      "description": {
+        "role": "delivered weekly mentoring to 42 students, covering study skills like managing stress, exam tips and unversity guidance."
+      }
+    },
+    {
+      "name": "Gonville & Caius College, University of Cambridge",
+      "location": "Cambridge, UK",
+      "position": "Cambridge Higher Aspirations Scheme 2026 Supervisor",
+      "url": "https://www.cai.cam.ac.uk/access-outreach/schemes-and-events/cambridge-higher-aspirations-scheme",
+      "startDate": "2026-01",
+      "endDate": "2026-03",
+      "summary": "",
+      "description": {
+        "role": "delivered an updated version of the 2024 course to 8 students."
       }
     }
   ],
@@ -321,6 +365,24 @@
       "event": "Workshop with the Language and AI in Education Lab @ University of Tübingen, Germany",
       "year": "2025",
       "url": "https://nextcloud.iwm-tuebingen.de/s/HC5RCGgxKMzmRqR"
+    },
+    {
+      "role": "Poster presentations",
+      "event": "ACL, SRW @ ACL and BEA @ ACL",
+      "year": "2025",
+      "url": "https://2025.aclweb.org"
+    },
+      {
+      "role": "Poster presentations",
+      "event": "BabyLM @ EMNLP",
+      "year": "2025",
+      "url": "https://babylm.github.io"
+    },
+    {
+      "role": "Speaker and poster presentation",
+      "event": "Language Sciences Annual Symposium @ University of Cambridge, UK",
+      "year": "2025",
+      "url": "https://www.languagesciences.cam.ac.uk/symposium2025"
     }
   ],
   "reviewing": [

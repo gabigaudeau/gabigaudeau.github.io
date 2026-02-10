@@ -8,12 +8,12 @@
             <h6 class="title ml-1 ml-md-4">
               <b class="font-weight-bold">{{ content.name }}</b>, {{ content.authors }}, {{ content.releaseDate }},
               <i `class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.publisher }}</i>,
-              <a href="{{ content.pdf }}">pdf</a>, <a href="{{ content.bib }}">bib</a>
+              <a href="{{ content.pdf }}">pdf</a>, <a href="{{ content.bib }}">bib</a> {{ content.note }}
             </h6>
           {% else %}
             <h6 class="title ml-1 ml-md-4">
               <b class="font-weight-bold">{{ content.name }}</b>, {{ content.authors }}, {{ content.releaseDate }},
-              <i `class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.publisher }}</i>
+              <i `class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.publisher }}</i> {{ content.note }}
             </h6>
           {% endif %}
         </li>

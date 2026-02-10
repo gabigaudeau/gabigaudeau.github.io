@@ -16,7 +16,7 @@ nav_order: 2
 <h4 id="2022">2022</h4> -->
 <hr>
 
-<h4 id="2026">2025</h4>
+<h4 id="2026">2026</h4>
 <ul>
   <li>
     <p><strong>Argumentative essay assessment with LLMs: A critical scoping review</strong>, Lucile Favero, <u>Gabrielle Gaudeau</u>, Juan Antonio Pérez-Ortiz, Tanja Käser, Nuria Oliver, 2026, <em>submitted to Artificial Intelligence Review journal</em>, <a href="/assets/pdf/Argumentative_essay_assessment_with_LLMs_A_critica.pdf">pdf</a>, <a href="/assets/bibliography/favero_argumentative_2026.bib">bib</a></p>
