@@ -19,6 +19,9 @@ nav_order: 2
 <h4 id="2026">2026</h4>
 <ul>
   <li>
+    <p><strong>Incentives of EdTech: A Systematic Review of EduNLP Research</strong>, <u> Gabrielle Gaudeau</u>, Aoife O'Driscoll, Jasper Degraeuwe, Andrew Caines, Donya Rooein, Zeerak Talat, 2026, <em>accepted to ACL 21st Building Educational Applications (BEA) Workshop 2026</em>, <a href="https://aclanthology.org/2026.bea-1.50.pdf">pdf</a>, <a href="/assets/bibliography/gaudeau-etal-2026-incentives.bib">bib</a></p>
+  </li>
+  <li>
     <p><strong>Argumentative essay assessment with LLMs: A critical scoping review</strong>, Lucile Favero, <u>Gabrielle Gaudeau</u>, Juan Antonio Pérez-Ortiz, Tanja Käser, Nuria Oliver, 2026, <em>submitted to Artificial Intelligence Review journal</em>, <a href="/assets/pdf/Argumentative_essay_assessment_with_LLMs_A_critica.pdf">pdf</a>, <a href="/assets/bibliography/favero_argumentative_2026.bib">bib</a></p>
   </li>
 </ul>
