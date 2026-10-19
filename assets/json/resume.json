@@ -75,7 +75,7 @@
   "publications": [
     {
       "name": "Incentives of EdTech: A Systematic Review Of EduNLP Research",
-      "published": "accepted to ACL 21st Building Educational Applications (BEA) Workshop 2026",
+      "publisher": "accepted to ACL 21st Building Educational Applications (BEA) Workshop 2026",
       "releaseDate": "2026",
       "authors": "<u>Gabrielle Gaudeau</u>, Aoife O'Driscoll, Jasper Degraeuwe, Andrew Caines, Donya Rooein, Zeerak Talat",
       "pdf": "https://aclanthology.org/2026.bea-1.50.pdf",
@@ -83,7 +83,7 @@
     },
     {
       "name": "Argumentative essay assessment with LLMs: A critical scoping review",
-      "published": "submited to Artificial Intelligence Review journal",
+      "publisher": "submited to Artificial Intelligence Review journal",
       "releaseDate": "2026",
       "authors": "Lucile Favero, <u>Gabrielle Gaudeau</u>, Juan Antonio Pérez-Ortiz, Tanja Käser, Nuria Oliver",
       "pdf": "/assets/pdf/Argumentative_essay_assessment_with_LLMs_A_critica.pdf",
@@ -91,7 +91,7 @@
     },
     {
       "name": "Verifiable Chemical Reasoning through Tool-Calling Agentic Workflow",
-      "published": "accepted to NeurIPS SEA Workshop 2025",
+      "publisher": "accepted to NeurIPS SEA Workshop 2025",
       "releaseDate": "2025",
       "authors": "Gabrielle Gaudeau, Shinnosuke Tanaka, Defne Circi, Ian Kennedy, Movina Moses, Mohab Elkaref",
       "note": ", work completed while interning at IBM",
@@ -100,7 +100,7 @@
     },
     {
       "name": "Teacher Demonstrations in a BabyLM's Zone of Proximal Development for Contingent Multi-Turn Interaction",
-      "published": "accepted to EMNLP 3rd BabyLM Workshop 2025",
+      "publisher": "accepted to EMNLP 3rd BabyLM Workshop 2025",
       "releaseDate": "2025",
       "authors": "Suchir Salhan, Hongyi Gu, Diana Galvan-Sosa, Donya Rooein, Gabrielle Gaudeau, Andrew Caines, Zheng Yuan, Paula Buttery",
       "note": ", Best Paper Award",
