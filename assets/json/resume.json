@@ -74,6 +74,14 @@
   ],
   "publications": [
     {
+      "name": "Incentives of EdTech: A Systematic Review Of EduNLP Research",
+      "published": "accepted to ACL 21st Building Educational Applications (BEA) Workshop 2026",
+      "releaseDate": "2026",
+      "authors": "<u>Gabrielle Gaudeau</u>, Aoife O'Driscoll, Jasper Degraeuwe, Andrew Caines, Donya Rooein, Zeerak Talat",
+      "pdf": "https://aclanthology.org/2026.bea-1.50.pdf",
+      "bib": "/assets/bibliography/gaudeau-etal-2026-incentives.bib"
+    },
+    {
       "name": "Argumentative essay assessment with LLMs: A critical scoping review",
       "published": "submited to Artificial Intelligence Review journal",
       "releaseDate": "2026",
